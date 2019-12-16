@@ -1,0 +1,61 @@
+#login{
+    margin-left: 20%;
+}
+
+
+header button{
+    margin-left: 5%;
+    float: left;
+    height: 40px;
+    width: 150px;
+    margin-top: 40px;
+    border-radius: 8px;
+
+}
+
+header button:hover {
+    background-color: white;
+    cursor:pointer;
+}
+
+header{
+    background-color: grey;
+    height:100px;
+    border-radius: 8px;
+    border-style: solid;
+}
+
+h1{
+    margin-left: 35%;
+    margin-top: 5%;
+}
+
+#maispesquisadas{
+    float: left;
+    width: 300px;
+    margin-top: 50px;
+    margin-left: 20%;
+}
+
+
+#informacoes{
+    float: left;
+    width: 300px;
+    margin-top: 50px;
+    margin-left: 20%;
+}
+
+header .button{
+    margin-left: 5%;
+    float: left;
+    height: 40px;
+    width: 150px;
+    margin-top: 40px;
+    border-radius: 8px;
+
+}
+
+header .button:hover {
+    background-color: white;
+    cursor:pointer;
+}

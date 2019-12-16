@@ -1,0 +1,14 @@
+antonio 123 1
+diogo 123 1
+123 123 1
+321 123 1
+432 123 1
+hjk 123 1
+987 123 1
+ola 123 1
+defesa 123 1
+null null 0
+abc 123 1
+asdasda 123 0
+{"name":"AntonioMaria","id":"3324639374229305"} FacebookPassword 0
+AntonioMaria FacebookPassword 0
